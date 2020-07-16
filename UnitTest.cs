@@ -10,7 +10,7 @@ namespace Practica_Final_Tendencia
         public void Setup()
         {
         }
-
+            //Test positivo
         [Test]
         public void Validate_input_4_is_correct()
         {
